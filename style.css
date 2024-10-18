@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+<head>
+
+  <style>
+
+    body {
+
+      background-color: #ff0000;
+
+    }
+
+    h1 {
+      color: #ff0000;
+      font-family: sans-serif;
+    
+    }
+p {
+ color:#490085;
+ font-size:12;
+}
+
+  </style>
+
+</head>
